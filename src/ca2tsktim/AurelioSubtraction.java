@@ -11,7 +11,7 @@ package ca2tsktim;
  * @author aurelioalmeida
  */
 public class AurelioSubtraction {
-    public static float subtrac (float x, float y){
+    public static float subtraction (float x, float y){
         return x - y;
         
     
